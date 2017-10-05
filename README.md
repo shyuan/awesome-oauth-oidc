@@ -22,7 +22,7 @@
 * [OAuth 2.0 Token Introspection (RFC 7662)](https://tools.ietf.org/html/rfc7662)
 * [JSON Web Signature (JWS) Unencoded Payload Option (RFC 7797)](https://tools.ietf.org/html/rfc7797)
 * [Authentication Method Reference Values (RFC 8176)](https://tools.ietf.org/html/rfc8176)
-* [OAuth 2.0 for Native Apps](https://tools.ietf.org/html/rfc8252)
+* [OAuth 2.0 for Native Apps (RFC 8252)](https://tools.ietf.org/html/rfc8252)
 
 ### Draft
 * [Mutual TLS Profile for OAuth 2.0 (draft-ietf-oauth-mtls-03)](https://tools.ietf.org/html/draft-ietf-oauth-mtls-03)
