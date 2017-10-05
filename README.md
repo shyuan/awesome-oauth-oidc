@@ -5,7 +5,7 @@
 ### Formal
 * [The OAuth 2.0 Authorization Framework (RFC 6749)](https://tools.ietf.org/html/rfc6749)
 * [The OAuth 2.0 Authorization Framework: Bearer Token Usage (RFC 6750)](https://tools.ietf.org/html/rfc6750)
-* [OAuth 2.0 Threat Model and Security Considerations](https://tools.ietf.org/html/rfc6819)
+* [OAuth 2.0 Threat Model and Security Considerations (RFC 6819)](https://tools.ietf.org/html/rfc6819)
 * [OAuth 2.0 Token Revocation (RFC 7009)](https://tools.ietf.org/html/rfc7009)
 * [Assertion Framework for OAuth 2.0 Client Authentication and Authorization Grants (RFC 7521)](https://tools.ietf.org/html/rfc7521)
 * [SAML 2.0 Profile for OAuth 2.0 Client Authentication and Authorization Grants (RFC 7522)](https://tools.ietf.org/html/rfc7522)
