@@ -9,6 +9,7 @@
 * [OAuth 2.0 Token Revocation (RFC 7009)](https://tools.ietf.org/html/rfc7009)
 * [JSON Web Signature (JWS) (RFC 7515)](https://tools.ietf.org/html/rfc7515)
 * [JSON Web Encryption (JWE) (RFC 7516)](https://tools.ietf.org/html/rfc7516)
+* [JSON Web Key (JWK) (RFC 7517)](https://tools.ietf.org/html/rfc7517)
 * [JSON Web Algorithms (JWA) (RFC 7518)](https://tools.ietf.org/html/rfc7518)
 * [JSON Web Token (JWT) (RFC 7519)](https://tools.ietf.org/html/rfc7519)
 * [Examples of Protecting Content Using JSON Object Signing and Encryption (JOSE) (RFC 7520)](https://tools.ietf.org/html/rfc7520)
