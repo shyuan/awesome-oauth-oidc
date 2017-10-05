@@ -1,4 +1,4 @@
-# awesome-oauth-oidc
+# Awesome OAuth 2.0 and OpenID Connect
 
 ## Specification
 
