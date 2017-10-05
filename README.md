@@ -28,3 +28,4 @@
 * [Mutual TLS Profile for OAuth 2.0 (draft-ietf-oauth-mtls-03)](https://tools.ietf.org/html/draft-ietf-oauth-mtls-03)
 * [OAuth 2.0 Device Flow for Browserless and Input Constrained Devices(draft-ietf-oauth-device-flow-06)](https://tools.ietf.org/html/draft-ietf-oauth-device-flow-06)
 * [OAuth 2.0 Authorization Server Metadata (draft-ietf-oauth-discovery-07)](https://tools.ietf.org/html/draft-ietf-oauth-discovery-07)
+* [OAuth 2.0 Incremental Authorization (draft-wdenniss-oauth-incremental-auth-00)](https://tools.ietf.org/id/draft-wdenniss-oauth-incremental-auth-00.html)
