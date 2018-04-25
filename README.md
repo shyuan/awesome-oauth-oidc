@@ -51,3 +51,9 @@
 * [OAuth 2 Simplified by Aaron Parecki](https://aaronparecki.com/oauth-2-simplified/)
 * [理解OAuth 2.0 by 阮一峰](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
 * [帮你深入理解OAuth2.0协议](http://blog.csdn.net/seccloud/article/details/8192707)
+
+## Books
+* [OAuth 2 in Action](https://www.manning.com/books/oauth-2-in-action)
+* [Getting Started with OAuth 2.0 - Programming Clients for Secure Web API Authorization and Authentication](http://shop.oreilly.com/product/0636920021810.do)
+* [Identity and Data Security for Web Development - Best Practices](http://shop.oreilly.com/product/0636920044376.do)
+* [OAuth 2.0 – Getting Started in Web-API Security](https://api-university.com/books/oauth-2-0-book/)
