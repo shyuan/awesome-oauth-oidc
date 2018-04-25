@@ -32,7 +32,7 @@
 ### Draft
 * [OAuth 2.0 Mutual TLS Client Authentication and Certificate Bound Access Tokens(draft-ietf-oauth-mtls-07)](https://tools.ietf.org/html/draft-ietf-oauth-mtls-07)
 * [OAuth 2.0 Device Flow for Browserless and Input Constrained Devices(draft-ietf-oauth-device-flow-09)](https://tools.ietf.org/html/draft-ietf-oauth-device-flow-09)
-* [OAuth 2.0 Authorization Server Metadata (draft-ietf-oauth-discovery-07)](https://tools.ietf.org/html/draft-ietf-oauth-discovery-07)
+* [OAuth 2.0 Authorization Server Metadata (draft-ietf-oauth-discovery-08)](https://tools.ietf.org/html/draft-ietf-oauth-discovery-08)
 * [OAuth 2.0 Incremental Authorization (draft-wdenniss-oauth-incremental-auth-00)](https://tools.ietf.org/id/draft-wdenniss-oauth-incremental-auth-00.html)
 
 ## Articles
