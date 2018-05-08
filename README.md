@@ -35,7 +35,7 @@
 * [OAuth 2.0 Authorization Server Metadata (draft-ietf-oauth-discovery-08)](https://tools.ietf.org/html/draft-ietf-oauth-discovery-08)
 * [OAuth 2.0 Incremental Authorization (draft-wdenniss-oauth-incremental-auth-01)](https://tools.ietf.org/id/draft-wdenniss-oauth-incremental-auth-01.html)
 
-## Articles
+## Article
 * OAuth 2.0 系列文 by [Yucheng Chuang](https://twitter.com/yorkxin)
     * [(1) 世界觀](http://blog.yorkxin.org/posts/2013/09/30/oauth2-1-introduction/)
     * [(2) Client 的註冊與認證](http://blog.yorkxin.org/posts/2013/09/30/oauth2-2-cilent-registration/)
@@ -52,7 +52,7 @@
 * [理解OAuth 2.0 by 阮一峰](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
 * [帮你深入理解OAuth2.0协议](http://blog.csdn.net/seccloud/article/details/8192707)
 
-## Books
+## Book
 * [OAuth 2 in Action](https://www.manning.com/books/oauth-2-in-action)
 * [Getting Started with OAuth 2.0 - Programming Clients for Secure Web API Authorization and Authentication](http://shop.oreilly.com/product/0636920021810.do)
 * [Identity and Data Security for Web Development - Best Practices](http://shop.oreilly.com/product/0636920044376.do)
