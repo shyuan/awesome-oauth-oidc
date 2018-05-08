@@ -5,6 +5,7 @@
 * [OAuth.net by Okta](https://oauth.net/)
 * [OAuth.com by Okta](https://www.oauth.com/)
 * [OAuth Articles and Posts by Alex Bilbie](https://alexbilbie.com/tag/oauth/)
+* [OpenID Connect](https://openid.net/connect/)
 
 ## Specification
 
