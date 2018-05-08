@@ -1,6 +1,7 @@
 # Awesome OAuth 2.0 and OpenID Connect
 
 ## Site
+* [OAuth on Wikipedia](https://en.wikipedia.org/wiki/OAuth)
 * [OAuth.net by Okta](https://oauth.net/)
 * [OAuth.com by Okta](https://www.oauth.com/)
 * [OAuth Articles and Posts by Alex Bilbie](https://alexbilbie.com/tag/oauth/)
