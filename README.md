@@ -30,11 +30,11 @@
 * [JSON Web Signature (JWS) Unencoded Payload Option (RFC 7797)](https://tools.ietf.org/html/rfc7797)
 * [Authentication Method Reference Values (RFC 8176)](https://tools.ietf.org/html/rfc8176)
 * [OAuth 2.0 for Native Apps (RFC 8252)](https://tools.ietf.org/html/rfc8252)
+* [OAuth 2.0 Authorization Server Metadata (RFC 8414)](https://tools.ietf.org/html/rfc8414)
 
 ### Draft
 * [OAuth 2.0 Mutual TLS Client Authentication and Certificate Bound Access Tokens(draft-ietf-oauth-mtls-07)](https://tools.ietf.org/html/draft-ietf-oauth-mtls-07)
 * [OAuth 2.0 Device Flow for Browserless and Input Constrained Devices(draft-ietf-oauth-device-flow-09)](https://tools.ietf.org/html/draft-ietf-oauth-device-flow-09)
-* [OAuth 2.0 Authorization Server Metadata (draft-ietf-oauth-discovery-08)](https://tools.ietf.org/html/draft-ietf-oauth-discovery-08)
 * [OAuth 2.0 Incremental Authorization (draft-wdenniss-oauth-incremental-auth-01)](https://tools.ietf.org/id/draft-wdenniss-oauth-incremental-auth-01.html)
 
 ## Article
