@@ -33,13 +33,13 @@
 * [OAuth 2.0 Authorization Server Metadata (RFC 8414)](https://tools.ietf.org/html/rfc8414)
 
 ### Draft
-* [OAuth 2.0 Mutual TLS Client Authentication and Certificate Bound Access Tokens(draft-ietf-oauth-mtls-09)](https://tools.ietf.org/html/draft-ietf-oauth-mtls-09)
-* [OAuth 2.0 Device Flow for Browserless and Input Constrained Devices(draft-ietf-oauth-device-flow-10)](https://tools.ietf.org/html/draft-ietf-oauth-device-flow-10)
+* [OAuth 2.0 Mutual TLS Client Authentication and Certificate Bound Access Tokens(draft-ietf-oauth-mtls-11)](https://tools.ietf.org/html/draft-ietf-oauth-mtls-11)
+* [OAuth 2.0 Device Flow for Browserless and Input Constrained Devices(draft-ietf-oauth-device-flow-12)](https://tools.ietf.org/html/draft-ietf-oauth-device-flow-12)
 * [OAuth 2.0 Incremental Authorization (draft-ietf-oauth-incremental-authz-00)](https://tools.ietf.org/html/draft-ietf-oauth-incremental-authz-00)
 * [OAuth 2.0 Token Exchange (draft-ietf-oauth-token-exchange-14)](https://tools.ietf.org/html/draft-ietf-oauth-token-exchange-14)
 * [The OAuth 2.0 Authorization Framework: JWT Secured Authorization Request(JAR) (draft-ietf-oauth-jwsreq-16)](https://tools.ietf.org/html/draft-ietf-oauth-jwsreq-16)
 * [OAuth 2.0 Token Binding (draft-ietf-oauth-token-binding-07)](https://tools.ietf.org/html/draft-ietf-oauth-token-binding-07)
-* [OAuth 2.0 Security Best Current Practice (draft-ietf-oauth-security-topics-06)](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-06)
+* [OAuth 2.0 Security Best Current Practice (draft-ietf-oauth-security-topics-07)](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-07)
 * [Reciprocal OAuth (draft-ietf-oauth-reciprocal-00)](https://tools.ietf.org/html/draft-ietf-oauth-reciprocal-00)
 * [JSON Web Token Best Current Practices (draft-ietf-oauth-jwt-bcp-03)](https://tools.ietf.org/html/draft-ietf-oauth-jwt-bcp-03)
 
