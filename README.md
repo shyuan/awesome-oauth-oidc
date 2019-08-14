@@ -66,3 +66,7 @@
 * [Getting Started with OAuth 2.0 - Programming Clients for Secure Web API Authorization and Authentication](http://shop.oreilly.com/product/0636920021810.do)
 * [Identity and Data Security for Web Development - Best Practices](http://shop.oreilly.com/product/0636920044376.do)
 * [OAuth 2.0 – Getting Started in Web-API Security](https://api-university.com/books/oauth-2-0-book/)
+
+## Playground
+* [OAUTH.TOOLS](https://oauth.tools/)
+* [Google OAuth 2.0 Playground](https://developers.google.com/oauthplayground/)
