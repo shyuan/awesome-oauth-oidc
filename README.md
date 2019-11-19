@@ -31,10 +31,10 @@
 * [Authentication Method Reference Values (RFC 8176)](https://tools.ietf.org/html/rfc8176)
 * [OAuth 2.0 for Native Apps (RFC 8252)](https://tools.ietf.org/html/rfc8252)
 * [OAuth 2.0 Authorization Server Metadata (RFC 8414)](https://tools.ietf.org/html/rfc8414)
+* [OAuth 2.0 Device Authorization Grant (RFC 8628)](https://tools.ietf.org/html/rfc8628)
 
 ### Draft
 * [OAuth 2.0 Mutual TLS Client Authentication and Certificate-Bound Access Tokens(draft-ietf-oauth-mtls-15)](https://tools.ietf.org/html/draft-ietf-oauth-mtls-15)
-* [OAuth 2.0 Device Authorization Grant(draft-ietf-oauth-device-flow-15)](https://tools.ietf.org/html/draft-ietf-oauth-device-flow-15)
 * [OAuth 2.0 Incremental Authorization(draft-ietf-oauth-incremental-authz-02)](https://tools.ietf.org/html/draft-ietf-oauth-incremental-authz-02)
 * [OAuth 2.0 Token Exchange (draft-ietf-oauth-token-exchange-14)](https://tools.ietf.org/html/draft-ietf-oauth-token-exchange-14)
 * [The OAuth 2.0 Authorization Framework: JWT Secured Authorization Request(JAR)(draft-ietf-oauth-jwsreq-19)](https://tools.ietf.org/html/draft-ietf-oauth-jwsreq-19)
