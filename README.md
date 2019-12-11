@@ -34,14 +34,14 @@
 * [OAuth 2.0 Device Authorization Grant (RFC 8628)](https://tools.ietf.org/html/rfc8628)
 
 ### Draft
-* [OAuth 2.0 Mutual TLS Client Authentication and Certificate-Bound Access Tokens(draft-ietf-oauth-mtls-15)](https://tools.ietf.org/html/draft-ietf-oauth-mtls-15)
-* [OAuth 2.0 Incremental Authorization(draft-ietf-oauth-incremental-authz-02)](https://tools.ietf.org/html/draft-ietf-oauth-incremental-authz-02)
-* [OAuth 2.0 Token Exchange (draft-ietf-oauth-token-exchange-14)](https://tools.ietf.org/html/draft-ietf-oauth-token-exchange-14)
-* [The OAuth 2.0 Authorization Framework: JWT Secured Authorization Request(JAR)(draft-ietf-oauth-jwsreq-19)](https://tools.ietf.org/html/draft-ietf-oauth-jwsreq-19)
+* [OAuth 2.0 Mutual TLS Client Authentication and Certificate-Bound Access Tokens(draft-ietf-oauth-mtls-17)](https://tools.ietf.org/html/draft-ietf-oauth-mtls-17)
+* [OAuth 2.0 Incremental Authorization(draft-ietf-oauth-incremental-authz-03)](https://tools.ietf.org/html/draft-ietf-oauth-incremental-authz-03)
+* [OAuth 2.0 Token Exchange (draft-ietf-oauth-token-exchange-19)](https://tools.ietf.org/html/draft-ietf-oauth-token-exchange-19)
+* [The OAuth 2.0 Authorization Framework: JWT Secured Authorization Request(JAR)(draft-ietf-oauth-jwsreq-20)](https://tools.ietf.org/html/draft-ietf-oauth-jwsreq-20)
 * [OAuth 2.0 Token Binding (draft-ietf-oauth-token-binding-08)](https://tools.ietf.org/html/draft-ietf-oauth-token-binding-08)
 * [OAuth 2.0 Security Best Current Practice (draft-ietf-oauth-security-topics-13)](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-13)
 * [Reciprocal OAuth (draft-ietf-oauth-reciprocal-04)](https://tools.ietf.org/html/draft-ietf-oauth-reciprocal-04)
-* [JSON Web Token Best Current Practices(draft-ietf-oauth-jwt-bcp-06)](https://tools.ietf.org/html/draft-ietf-oauth-jwt-bcp-06)
+* [JSON Web Token Best Current Practices(draft-ietf-oauth-jwt-bcp-07)](https://tools.ietf.org/html/draft-ietf-oauth-jwt-bcp-07)
 
 
 ## Article
