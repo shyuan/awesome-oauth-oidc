@@ -42,7 +42,7 @@
 * [OAuth 2.0 Security Best Current Practice (draft-ietf-oauth-security-topics-13)](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-13)
 * [Reciprocal OAuth (draft-ietf-oauth-reciprocal-04)](https://tools.ietf.org/html/draft-ietf-oauth-reciprocal-04)
 * [JSON Web Token Best Current Practices(draft-ietf-oauth-jwt-bcp-07)](https://tools.ietf.org/html/draft-ietf-oauth-jwt-bcp-07)
-
+* [OAuth 2.0 for Browser-Based Apps(draft-ietf-oauth-browser-based-apps-05)](https://tools.ietf.org/html/draft-ietf-oauth-browser-based-apps-05)
 
 ## Article
 * OAuth 2.0 系列文 by [Yucheng Chuang](https://twitter.com/yorkxin)
