@@ -42,7 +42,7 @@
 * [OAuth 2.0 Token Binding (draft-ietf-oauth-token-binding-08)](https://tools.ietf.org/html/draft-ietf-oauth-token-binding-08)
 * [OAuth 2.0 Security Best Current Practice (draft-ietf-oauth-security-topics-14)](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-14)
 * [Reciprocal OAuth (draft-ietf-oauth-reciprocal-04)](https://tools.ietf.org/html/draft-ietf-oauth-reciprocal-04)
-* [OAuth 2.0 for Browser-Based Apps(draft-ietf-oauth-browser-based-apps-07)](https://tools.ietf.org/html/draft-ietf-oauth-browser-based-apps-07)
+* [OAuth 2.0 for Browser-Based Apps(draft-ietf-oauth-browser-based-apps-08)](https://tools.ietf.org/html/draft-ietf-oauth-browser-based-apps-08)
 
 ## Article
 * OAuth 2.0 系列文 by [Yucheng Chuang](https://twitter.com/yorkxin)
