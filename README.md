@@ -43,6 +43,7 @@
 * [OAuth 2.0 Security Best Current Practice (draft-ietf-oauth-security-topics-18)](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-18)
 * [Reciprocal OAuth (draft-ietf-oauth-reciprocal-04)](https://tools.ietf.org/html/draft-ietf-oauth-reciprocal-04)
 * [OAuth 2.0 for Browser-Based Apps(draft-ietf-oauth-browser-based-apps-08)](https://tools.ietf.org/html/draft-ietf-oauth-browser-based-apps-08)
+* [The OAuth 2.1 Authorization Framework(draft-ietf-oauth-v2-1-04)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1-04)
 
 ## Article
 * OAuth 2.0 系列文 by [Yucheng Chuang](https://twitter.com/yorkxin)
