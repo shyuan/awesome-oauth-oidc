@@ -38,7 +38,7 @@
 * [The OAuth 2.0 Authorization Framework: JWT-Secured Authorization Request(JAR) (RFC 9101)](https://datatracker.ietf.org/doc/html/rfc9101)
 
 ### Draft
-* [OAuth 2.0 Incremental Authorization(draft-ietf-oauth-incremental-authz-03)](https://tools.ietf.org/html/draft-ietf-oauth-incremental-authz-03)
+* [OAuth 2.0 Incremental Authorization(draft-ietf-oauth-incremental-authz-04)](https://tools.ietf.org/html/draft-ietf-oauth-incremental-authz-04)
 * [OAuth 2.0 Token Binding (draft-ietf-oauth-token-binding-08)](https://tools.ietf.org/html/draft-ietf-oauth-token-binding-08)
 * [OAuth 2.0 Security Best Current Practice (draft-ietf-oauth-security-topics-18)](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-18)
 * [Reciprocal OAuth (draft-ietf-oauth-reciprocal-04)](https://tools.ietf.org/html/draft-ietf-oauth-reciprocal-04)
