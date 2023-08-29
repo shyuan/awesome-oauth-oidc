@@ -38,12 +38,15 @@
 * [The OAuth 2.0 Authorization Framework: JWT-Secured Authorization Request(JAR) (RFC 9101)](https://datatracker.ietf.org/doc/html/rfc9101)
 
 ### Draft
-* [OAuth 2.0 Incremental Authorization(draft-ietf-oauth-incremental-authz-04)](https://tools.ietf.org/html/draft-ietf-oauth-incremental-authz-04)
-* [OAuth 2.0 Token Binding (draft-ietf-oauth-token-binding-08)](https://tools.ietf.org/html/draft-ietf-oauth-token-binding-08)
-* [OAuth 2.0 Security Best Current Practice (draft-ietf-oauth-security-topics-18)](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-18)
+#### Active
+* [OAuth 2.0 Security Best Current Practice](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics-23)
+* [OAuth 2.0 for Browser-Based Apps](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-browser-based-apps-14)
+* [The OAuth 2.1 Authorization Framework](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1-09)
+
+#### Expired & archived
 * [Reciprocal OAuth (draft-ietf-oauth-reciprocal-04)](https://tools.ietf.org/html/draft-ietf-oauth-reciprocal-04)
-* [OAuth 2.0 for Browser-Based Apps(draft-ietf-oauth-browser-based-apps-08)](https://tools.ietf.org/html/draft-ietf-oauth-browser-based-apps-08)
-* [The OAuth 2.1 Authorization Framework(draft-ietf-oauth-v2-1-04)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1-04)
+* [OAuth 2.0 Token Binding (draft-ietf-oauth-token-binding-08)](https://tools.ietf.org/html/draft-ietf-oauth-token-binding-08)
+* [OAuth 2.0 Incremental Authorization(draft-ietf-oauth-incremental-authz-04)](https://tools.ietf.org/html/draft-ietf-oauth-incremental-authz-04)
 
 ## Article
 * OAuth 2.0 系列文 by [Yucheng Chuang](https://twitter.com/yorkxin)
@@ -71,3 +74,6 @@
 ## Playground
 * [OAUTH.TOOLS](https://oauth.tools/)
 * [Google OAuth 2.0 Playground](https://developers.google.com/oauthplayground/)
+
+## X
+* https://twitter.com/alexxubyte/status/1696180531266715815
