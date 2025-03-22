@@ -74,6 +74,7 @@
 ## Playground
 * [OAUTH.TOOLS](https://oauth.tools/)
 * [Google OAuth 2.0 Playground](https://developers.google.com/oauthplayground/)
+* [OIDC Playground](https://oidc-playground.compile7.org/)
 
 ## X
 * https://twitter.com/alexxubyte/status/1696180531266715815
