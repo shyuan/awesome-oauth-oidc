@@ -10,8 +10,12 @@
 - [Specification](#specification)
 - [Article](#article)
 - [Book](#book)
-- [Playground](#playground)
+- [Server Implementation](#server-implementation)
+- [Client Library](#client-library)
+- [Tool](#tool)
+- [Video](#video)
 - [Social Media](#social-media)
+- [Community](#community)
 
 ## Site
 * [OAuth on Wikipedia](https://en.wikipedia.org/wiki/OAuth)
