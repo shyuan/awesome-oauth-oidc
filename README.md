@@ -151,10 +151,25 @@
 * [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) - OAuth 2.0 provider for Ruby on Rails
 * [OmniAuth](https://github.com/omniauth/omniauth) - Multi-provider authentication framework
 
-## Playground
-* [OAUTH.TOOLS](https://oauth.tools/)
+## Tool
+
+### Playground
+* [OAUTH.TOOLS](https://oauth.tools/) - Interactive OAuth/OIDC playground by Curity
 * [Google OAuth 2.0 Playground](https://developers.google.com/oauthplayground/)
 * [OIDC Playground](https://oidc-playground.compile7.org/)
+* [OIDC Debugger](https://oidcdebugger.com/) - Web-based tool for testing OIDC authorization requests
+* [OpenID Connect Conformance Suite](https://openid.net/certification/testing/) - Official OIDC provider conformance test suite
+
+### JWT
+* [jwt.io](https://jwt.io/) - JWT debugger and library directory by Auth0
+* [jwt.ms](https://jwt.ms/) - JWT decoder by Microsoft
+* [token.dev](https://token.dev/) - Modern JWT debugger with a clean interface
+* [mkjwk.org](https://mkjwk.org/) - JSON Web Key (JWK) generator
+* [jwt-cli](https://github.com/mike-engel/jwt-cli) - Command-line JWT decoder/encoder (Rust)
+
+### CLI
+* [oauth2c](https://github.com/cloudentity/oauth2c) - Command-line OAuth 2.0 client supporting all grant types, PKCE, DPoP, mTLS
+* [step-cli](https://github.com/smallstep/cli) - CLI for certificates, tokens, and OIDC flows
 
 ## Social Media
 * [OAuth 2.0 Explained by Alex Xu (ByteByteGo)](https://x.com/alexxubyte/status/1696180531266715815)
