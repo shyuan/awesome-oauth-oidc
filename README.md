@@ -85,6 +85,19 @@
 * [OAuth 2.0 Token Binding (draft-ietf-oauth-token-binding-08)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-token-binding-08)
 * [OAuth 2.0 Incremental Authorization (draft-ietf-oauth-incremental-authz-04)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-incremental-authz-04)
 
+### OpenID Connect
+* [OpenID Connect Core 1.0](https://openid.net/specs/openid-connect-core-1_0.html)
+* [OpenID Connect Discovery 1.0](https://openid.net/specs/openid-connect-discovery-1_0.html)
+* [OpenID Connect Dynamic Client Registration 1.0](https://openid.net/specs/openid-connect-registration-1_0.html)
+* [OAuth 2.0 Multiple Response Types](https://openid.net/specs/oauth-v2-multiple-response-types-1_0.html)
+* [OAuth 2.0 Form Post Response Mode](https://openid.net/specs/oauth-v2-form-post-response-mode-1_0.html)
+* [OpenID Connect RP-Initiated Logout 1.0](https://openid.net/specs/openid-connect-rpinitiated-1_0.html)
+* [OpenID Connect Session Management 1.0](https://openid.net/specs/openid-connect-session-1_0.html)
+* [OpenID Connect Front-Channel Logout 1.0](https://openid.net/specs/openid-connect-frontchannel-1_0.html)
+* [OpenID Connect Back-Channel Logout 1.0](https://openid.net/specs/openid-connect-backchannel-1_0.html)
+* [OpenID Connect Federation 1.0](https://openid.net/specs/openid-connect-federation-1_0.html)
+* [OpenID Connect for Identity Assurance 1.0](https://openid.net/specs/openid-connect-4-identity-assurance-1_0.html)
+
 ## Article
 * OAuth 2.0 系列文 by [Yucheng Chuang](https://x.com/yorkxin)
     * [(1) 世界觀](https://blog.yorkxin.org/posts/oauth2-1-introduction/)
