@@ -108,6 +108,16 @@
 * [JWT Secured Authorization Response Mode (JARM)](https://openid.net/specs/oauth-v2-jarm.html)
 * [Grant Management for OAuth 2.0](https://openid.net/specs/fapi-grant-management.html)
 
+### Shared Signals
+* [Shared Signals Framework 1.0](https://openid.net/specs/openid-sharedsignals-framework-1_0.html)
+* [RISC Profile 1.0](https://openid.net/specs/openid-risc-profile-specification-1_0.html)
+* [CAEP Specification 1.0](https://openid.net/specs/openid-caep-specification-1_0.html)
+
+### Verifiable Credentials
+* [OpenID for Verifiable Credential Issuance (OID4VCI)](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html)
+* [OpenID for Verifiable Presentations (OID4VP)](https://openid.net/specs/openid-4-verifiable-presentations-1_0.html)
+* [Self-Issued OpenID Provider v2 (SIOPv2)](https://openid.net/specs/openid-connect-self-issued-v2-1_0.html)
+
 ## Article
 * OAuth 2.0 系列文 by [Yucheng Chuang](https://x.com/yorkxin)
     * [(1) 世界觀](https://blog.yorkxin.org/posts/oauth2-1-introduction/)
