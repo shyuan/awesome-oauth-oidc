@@ -99,6 +99,19 @@
 * [Identity and Data Security for Web Development - Best Practices](https://www.oreilly.com/library/view/~/9781491937006/)
 * [OAuth 2.0 – Getting Started in Web-API Security](https://api-university.com/books/oauth-2-0-book/)
 
+## Server Implementation
+* [Keycloak](https://www.keycloak.org/) - Open-source IAM by Red Hat, supports OAuth 2.0, OIDC, and SAML 2.0 (Java)
+* [Ory Hydra](https://github.com/ory/hydra) - Headless, cloud-native OAuth 2.0 and OIDC server, OpenID Certified (Go)
+* [Dex](https://github.com/dexidp/dex) - Federated OIDC provider by CNCF, widely used in the Kubernetes ecosystem (Go)
+* [Authentik](https://goauthentik.io/) - Self-hosted identity provider supporting OAuth 2.0, OIDC, SAML, SCIM, and LDAP (Python/Go)
+* [Authelia](https://www.authelia.com/) - Authentication and SSO server with OIDC Identity Provider support (Go)
+* [node-oidc-provider](https://github.com/panva/node-oidc-provider) - Certified OpenID Connect provider for Node.js (JavaScript)
+* [Spring Authorization Server](https://spring.io/projects/spring-authorization-server) - Official Spring project for OAuth 2.0 and OIDC Authorization Servers (Java)
+* [OpenIddict](https://github.com/openiddict/openiddict-core) - Flexible open-source OIDC server for ASP.NET Core (.NET)
+* [ZITADEL](https://zitadel.com/) - Cloud-native identity management with OAuth 2.0 and OIDC (Go)
+* [Logto](https://logto.io/) - Developer-friendly, open-source Auth0 alternative with OIDC support (TypeScript)
+* [Casdoor](https://casdoor.org/) - UI-first IAM platform supporting OAuth 2.0, OIDC, SAML, CAS, and more (Go)
+
 ## Playground
 * [OAUTH.TOOLS](https://oauth.tools/)
 * [Google OAuth 2.0 Playground](https://developers.google.com/oauthplayground/)
