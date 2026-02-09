@@ -1,5 +1,9 @@
 # Awesome OAuth 2.0 and OpenID Connect
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+> A curated list of resources for OAuth 2.0 and OpenID Connect (OIDC) — specifications, articles, books, playgrounds, and more.
+
 ## Site
 * [OAuth on Wikipedia](https://en.wikipedia.org/wiki/OAuth)
 * [OAuth.net by Okta](https://oauth.net/)
