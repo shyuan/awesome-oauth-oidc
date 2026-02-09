@@ -32,8 +32,8 @@
 * [OAuth 2.0 for Native Apps (RFC 8252)](https://tools.ietf.org/html/rfc8252)
 * [OAuth 2.0 Authorization Server Metadata (RFC 8414)](https://tools.ietf.org/html/rfc8414)
 * [OAuth 2.0 Device Authorization Grant (RFC 8628)](https://tools.ietf.org/html/rfc8628)
-* [OAuth 2.0 Mutual TLS Client Authentication and Certificate-Bound Access Tokens (RFC 8705)](https://tools.ietf.org/html/rfc8705)
 * [OAuth 2.0 Token Exchange (RFC 8693)](https://tools.ietf.org/html/rfc8693)
+* [OAuth 2.0 Mutual TLS Client Authentication and Certificate-Bound Access Tokens (RFC 8705)](https://tools.ietf.org/html/rfc8705)
 * [JSON Web Token Best Current Practices (RFC 8725)](https://tools.ietf.org/html/rfc8725)
 * [The OAuth 2.0 Authorization Framework: JWT-Secured Authorization Request(JAR) (RFC 9101)](https://datatracker.ietf.org/doc/html/rfc9101)
 
