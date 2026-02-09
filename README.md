@@ -178,3 +178,8 @@
 
 ## Social Media
 * [OAuth 2.0 Explained by Alex Xu (ByteByteGo)](https://x.com/alexxubyte/status/1696180531266715815)
+
+## Community
+* [IETF OAuth Working Group Mailing List](https://mailarchive.ietf.org/arch/browse/oauth/) - Where OAuth specifications are discussed and developed
+* [OpenID Foundation](https://openid.net/foundation/) - Organization behind OpenID Connect standards and certification
+* [Identiverse](https://identiverse.com/) - Premier annual conference on digital identity
