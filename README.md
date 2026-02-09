@@ -98,6 +98,16 @@
 * [OpenID Connect Federation 1.0](https://openid.net/specs/openid-connect-federation-1_0.html)
 * [OpenID Connect for Identity Assurance 1.0](https://openid.net/specs/openid-connect-4-identity-assurance-1_0.html)
 
+### CIBA
+* [OpenID Connect CIBA Flow - Core 1.0](https://openid.net/specs/openid-client-initiated-backchannel-authentication-core-1_0.html)
+
+### FAPI
+* [FAPI 2.0 Security Profile](https://openid.net/specs/fapi-security-profile-2_0.html)
+* [FAPI 2.0 Message Signing](https://openid.net/specs/fapi-2_0-message-signing.html)
+* [FAPI 2.0 Attacker Model](https://openid.net/specs/fapi-2_0-attacker-model.html)
+* [JWT Secured Authorization Response Mode (JARM)](https://openid.net/specs/oauth-v2-jarm.html)
+* [Grant Management for OAuth 2.0](https://openid.net/specs/fapi-grant-management.html)
+
 ## Article
 * OAuth 2.0 系列文 by [Yucheng Chuang](https://x.com/yorkxin)
     * [(1) 世界觀](https://blog.yorkxin.org/posts/oauth2-1-introduction/)
