@@ -36,6 +36,10 @@
 * [OAuth 2.0 Mutual TLS Client Authentication and Certificate-Bound Access Tokens (RFC 8705)](https://datatracker.ietf.org/doc/html/rfc8705)
 * [JSON Web Token Best Current Practices (RFC 8725)](https://datatracker.ietf.org/doc/html/rfc8725)
 * [The OAuth 2.0 Authorization Framework: JWT-Secured Authorization Request (JAR) (RFC 9101)](https://datatracker.ietf.org/doc/html/rfc9101)
+* [OAuth 2.0 Pushed Authorization Requests (RFC 9126)](https://datatracker.ietf.org/doc/html/rfc9126)
+* [OAuth 2.0 Authorization Server Issuer Identification (RFC 9207)](https://datatracker.ietf.org/doc/html/rfc9207)
+* [OAuth 2.0 Rich Authorization Requests (RFC 9396)](https://datatracker.ietf.org/doc/html/rfc9396)
+* [OAuth 2.0 Demonstrating Proof of Possession (DPoP) (RFC 9449)](https://datatracker.ietf.org/doc/html/rfc9449)
 
 ### Draft
 #### Active
