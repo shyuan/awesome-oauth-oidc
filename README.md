@@ -64,6 +64,7 @@
 * [OAuth 2 Simplified by Aaron Parecki](https://aaronparecki.com/oauth-2-simplified/)
 * [理解OAuth 2.0 by 阮一峰](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
 * [帮你深入理解OAuth2.0协议](http://blog.csdn.net/seccloud/article/details/8192707)
+* [What's OAuth2 Anyway? by Roman Glushko](https://www.romaglushko.com/blog/whats-aouth2/)
 
 ## Book
 * [OAuth 2 in Action](https://www.manning.com/books/oauth-2-in-action)
