@@ -57,7 +57,7 @@
 * [OAuth 2.0 Incremental Authorization (draft-ietf-oauth-incremental-authz-04)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-incremental-authz-04)
 
 ## Article
-* OAuth 2.0 系列文 by [Yucheng Chuang](https://twitter.com/yorkxin)
+* OAuth 2.0 系列文 by [Yucheng Chuang](https://x.com/yorkxin)
     * [(1) 世界觀](http://blog.yorkxin.org/posts/2013/09/30/oauth2-1-introduction/)
     * [(2) Client 的註冊與認證](http://blog.yorkxin.org/posts/2013/09/30/oauth2-2-cilent-registration/)
     * [(3) Endpoints 的規格](http://blog.yorkxin.org/posts/2013/09/30/oauth2-3-endpoints/)
