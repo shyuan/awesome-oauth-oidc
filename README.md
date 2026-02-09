@@ -40,12 +40,12 @@
 * [OAuth 2.0 Authorization Server Issuer Identification (RFC 9207)](https://datatracker.ietf.org/doc/html/rfc9207)
 * [OAuth 2.0 Rich Authorization Requests (RFC 9396)](https://datatracker.ietf.org/doc/html/rfc9396)
 * [OAuth 2.0 Demonstrating Proof of Possession (DPoP) (RFC 9449)](https://datatracker.ietf.org/doc/html/rfc9449)
+* [OAuth 2.0 Security Best Current Practice (RFC 9700)](https://datatracker.ietf.org/doc/html/rfc9700)
 
 ### Draft
 #### Active
-* [OAuth 2.0 Security Best Current Practice](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics-23)
-* [OAuth 2.0 for Browser-Based Apps](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-browser-based-apps-14)
-* [The OAuth 2.1 Authorization Framework](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1-09)
+* [OAuth 2.0 for Browser-Based Apps (draft-ietf-oauth-browser-based-apps-26)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-browser-based-apps-26)
+* [The OAuth 2.1 Authorization Framework (draft-ietf-oauth-v2-1-14)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1-14)
 
 #### Expired & archived
 * [Reciprocal OAuth (draft-ietf-oauth-reciprocal-04)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-reciprocal-04)
