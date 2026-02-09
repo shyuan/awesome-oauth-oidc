@@ -23,6 +23,9 @@
 * [OAuth.com by Okta](https://www.oauth.com/)
 * [OAuth Articles and Posts by Alex Bilbie](https://alexbilbie.com/tag/oauth/)
 * [OpenID Connect](https://openid.net/connect/)
+* [OpenID Connect Explained by Connect2id](https://connect2id.com/learn/openid-connect)
+* [Connect2id Learn Portal](https://connect2id.com/learn)
+* [OpenID Certification](https://openid.net/certification/)
 
 ## Specification
 
@@ -135,6 +138,8 @@
 * [理解OAuth 2.0 by 阮一峰](https://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
 * [帮你深入理解OAuth2.0协议](https://blog.csdn.net/seccloud/article/details/8192707)
 * [What's OAuth2 Anyway? by Roman Glushko](https://www.romaglushko.com/blog/whats-aouth2/)
+* [How OpenID Connect Works by OpenID Foundation](https://openid.net/developers/how-connect-works/)
+* [OpenID Connect (OAuth.com) by Aaron Parecki](https://www.oauth.com/oauth2-servers/openid-connect/)
 
 ## Book
 * [OAuth 2 in Action](https://www.manning.com/books/oauth-2-in-action)
@@ -194,6 +199,13 @@
 * [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) - OAuth 2.0 provider for Ruby on Rails
 * [OmniAuth](https://github.com/omniauth/omniauth) - Multi-provider authentication framework
 
+### Mobile
+* [AppAuth (iOS)](https://github.com/openid/AppAuth-iOS) - OpenID Certified OIDC/OAuth 2.0 SDK for iOS, following RFC 8252 best practices
+* [AppAuth (Android)](https://github.com/openid/AppAuth-Android) - OpenID Certified OIDC/OAuth 2.0 SDK for Android, following RFC 8252 best practices
+
+### Other
+* [mod_auth_openidc](https://github.com/OpenIDC/mod_auth_openidc) - OpenID Certified OIDC Relying Party module for Apache HTTP Server
+
 ## Tool
 
 ### Playground
@@ -218,6 +230,7 @@
 * [OAuth 2.0 and OpenID Connect (in plain English) by Nate Barbettini](https://www.youtube.com/watch?v=996OiexHze0)
 * [An Illustrated Guide to OAuth and OpenID Connect by OktaDev](https://www.youtube.com/watch?v=t18YB3xDfXI)
 * [The Nuts and Bolts of OAuth 2.0 by Aaron Parecki](https://www.youtube.com/watch?v=CPbvxxslDTU)
+* [Identity, Authentication + OAuth = OpenID Connect by Dominick Baier](https://www.youtube.com/watch?v=Kb56GzQ2pSk)
 
 ## Social Media
 * [OAuth 2.0 Explained by Alex Xu (ByteByteGo)](https://x.com/alexxubyte/status/1696180531266715815)
