@@ -26,11 +26,12 @@
 
 ## Specification
 
-### Formal
+### IETF RFC
 * [The OAuth 2.0 Authorization Framework (RFC 6749)](https://datatracker.ietf.org/doc/html/rfc6749)
 * [The OAuth 2.0 Authorization Framework: Bearer Token Usage (RFC 6750)](https://datatracker.ietf.org/doc/html/rfc6750)
 * [OAuth 2.0 Threat Model and Security Considerations (RFC 6819)](https://datatracker.ietf.org/doc/html/rfc6819)
 * [OAuth 2.0 Token Revocation (RFC 7009)](https://datatracker.ietf.org/doc/html/rfc7009)
+* [WebFinger (RFC 7033)](https://datatracker.ietf.org/doc/html/rfc7033)
 * [JSON Web Signature (JWS) (RFC 7515)](https://datatracker.ietf.org/doc/html/rfc7515)
 * [JSON Web Encryption (JWE) (RFC 7516)](https://datatracker.ietf.org/doc/html/rfc7516)
 * [JSON Web Key (JWK) (RFC 7517)](https://datatracker.ietf.org/doc/html/rfc7517)
@@ -48,10 +49,14 @@
 * [Authentication Method Reference Values (RFC 8176)](https://datatracker.ietf.org/doc/html/rfc8176)
 * [OAuth 2.0 for Native Apps (RFC 8252)](https://datatracker.ietf.org/doc/html/rfc8252)
 * [OAuth 2.0 Authorization Server Metadata (RFC 8414)](https://datatracker.ietf.org/doc/html/rfc8414)
+* [Security Event Token (SET) (RFC 8417)](https://datatracker.ietf.org/doc/html/rfc8417)
+* [Vectors of Trust (RFC 8485)](https://datatracker.ietf.org/doc/html/rfc8485)
 * [OAuth 2.0 Device Authorization Grant (RFC 8628)](https://datatracker.ietf.org/doc/html/rfc8628)
 * [OAuth 2.0 Token Exchange (RFC 8693)](https://datatracker.ietf.org/doc/html/rfc8693)
 * [OAuth 2.0 Mutual TLS Client Authentication and Certificate-Bound Access Tokens (RFC 8705)](https://datatracker.ietf.org/doc/html/rfc8705)
 * [JSON Web Token Best Current Practices (RFC 8725)](https://datatracker.ietf.org/doc/html/rfc8725)
+* [Push-Based Security Event Token (SET) Delivery Using HTTP (RFC 8935)](https://datatracker.ietf.org/doc/html/rfc8935)
+* [Poll-Based Security Event Token (SET) Delivery Using HTTP (RFC 8936)](https://datatracker.ietf.org/doc/html/rfc8936)
 * [JSON Web Token (JWT) Profile for OAuth 2.0 Access Tokens (RFC 9068)](https://datatracker.ietf.org/doc/html/rfc9068)
 * [The OAuth 2.0 Authorization Framework: JWT-Secured Authorization Request (JAR) (RFC 9101)](https://datatracker.ietf.org/doc/html/rfc9101)
 * [OAuth 2.0 Pushed Authorization Requests (RFC 9126)](https://datatracker.ietf.org/doc/html/rfc9126)
@@ -61,10 +66,11 @@
 * [Client-Cert HTTP Header Field (RFC 9440)](https://datatracker.ietf.org/doc/html/rfc9440)
 * [OAuth 2.0 Demonstrating Proof of Possession (DPoP) (RFC 9449)](https://datatracker.ietf.org/doc/html/rfc9449)
 * [OAuth 2.0 Step Up Authentication Challenge Protocol (RFC 9470)](https://datatracker.ietf.org/doc/html/rfc9470)
+* [Subject Identifiers for Security Event Tokens (RFC 9493)](https://datatracker.ietf.org/doc/html/rfc9493)
 * [OAuth 2.0 Security Best Current Practice (RFC 9700)](https://datatracker.ietf.org/doc/html/rfc9700)
 * [Selective Disclosure for JSON Web Tokens (SD-JWT) (RFC 9901)](https://datatracker.ietf.org/doc/html/rfc9901)
 
-### Draft
+### IETF Draft
 #### Active
 * [OAuth 2.0 for Browser-Based Apps (draft-ietf-oauth-browser-based-apps-26)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-browser-based-apps-26)
 * [The OAuth 2.1 Authorization Framework (draft-ietf-oauth-v2-1-14)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1-14)
