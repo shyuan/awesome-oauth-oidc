@@ -171,5 +171,10 @@
 * [oauth2c](https://github.com/cloudentity/oauth2c) - Command-line OAuth 2.0 client supporting all grant types, PKCE, DPoP, mTLS
 * [step-cli](https://github.com/smallstep/cli) - CLI for certificates, tokens, and OIDC flows
 
+## Video
+* [OAuth 2.0 and OpenID Connect (in plain English) by Nate Barbettini](https://www.youtube.com/watch?v=996OiexHze0)
+* [An Illustrated Guide to OAuth and OpenID Connect by OktaDev](https://www.youtube.com/watch?v=t18YB3xDfXI)
+* [The Nuts and Bolts of OAuth 2.0 by Aaron Parecki](https://www.youtube.com/watch?v=CPbvxxslDTU)
+
 ## Social Media
 * [OAuth 2.0 Explained by Alex Xu (ByteByteGo)](https://x.com/alexxubyte/status/1696180531266715815)
