@@ -64,6 +64,11 @@
 #### Active
 * [OAuth 2.0 for Browser-Based Apps (draft-ietf-oauth-browser-based-apps-26)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-browser-based-apps-26)
 * [The OAuth 2.1 Authorization Framework (draft-ietf-oauth-v2-1-14)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1-14)
+* [Cross-Device Flows: Security Best Current Practice (draft-ietf-oauth-cross-device-security-15)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-cross-device-security-15)
+* [OAuth Identity and Authorization Chaining Across Domains (draft-ietf-oauth-identity-chaining-07)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-identity-chaining-07)
+* [SD-JWT-based Verifiable Digital Credentials (draft-ietf-oauth-sd-jwt-vc-14)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-sd-jwt-vc-14)
+* [Token Status List (draft-ietf-oauth-status-list-17)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-status-list-17)
+* [Transaction Tokens (draft-ietf-oauth-transaction-tokens-07)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-transaction-tokens-07)
 
 #### Expired & archived
 * [Reciprocal OAuth (draft-ietf-oauth-reciprocal-04)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-reciprocal-04)
