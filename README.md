@@ -112,6 +112,45 @@
 * [Logto](https://logto.io/) - Developer-friendly, open-source Auth0 alternative with OIDC support (TypeScript)
 * [Casdoor](https://casdoor.org/) - UI-first IAM platform supporting OAuth 2.0, OIDC, SAML, CAS, and more (Go)
 
+## Client Library
+
+### Go
+* [golang.org/x/oauth2](https://github.com/golang/oauth2) - Official Go OAuth 2.0 client library
+* [go-oidc](https://github.com/coreos/go-oidc) - OpenID Connect support for Go, built on golang.org/x/oauth2
+
+### JavaScript / TypeScript
+* [openid-client](https://github.com/panva/openid-client) - Certified OpenID Connect Relying Party for Node.js
+* [jose](https://github.com/panva/jose) - Universal JavaScript module for JWS, JWE, JWT, JWK, and JWKS
+* [passport](https://github.com/jaredhanson/passport) - Authentication middleware for Node.js with OAuth 2.0 / OIDC strategies
+* [arctic](https://github.com/pilcrowonpaper/arctic) - OAuth 2.0 provider helpers for 50+ providers with minimal abstraction
+
+### Python
+* [Authlib](https://github.com/lepture/authlib) - OAuth and OIDC client/server library for Flask, Django, FastAPI, and more
+* [OAuthLib](https://github.com/oauthlib/oauthlib) - Generic, spec-compliant OAuth request-signing logic
+* [requests-oauthlib](https://github.com/requests/requests-oauthlib) - OAuth support for Python `requests`, built on OAuthLib
+* [PyJWT](https://github.com/jpadilla/pyjwt) - JSON Web Token encoding and decoding
+
+### Java
+* [Nimbus JOSE + JWT](https://connect2id.com/products/nimbus-jose-jwt) - Popular Java library for JOSE and JWT
+* [Nimbus OAuth 2.0 SDK](https://connect2id.com/products/nimbus-oauth-openid-connect-sdk) - Comprehensive OAuth 2.0 and OpenID Connect SDK
+* [ScribeJava](https://github.com/scribejava/scribejava) - Simple OAuth 1.0 / 2.0 client library
+
+### Rust
+* [oauth2-rs](https://github.com/ramosbugs/oauth2-rs) - Extensible, strongly-typed OAuth 2.0 client
+* [openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) - OpenID Connect library built on oauth2-rs
+
+### .NET
+* [Duende IdentityServer](https://github.com/DuendeSoftware/IdentityServer) - OAuth 2.0 and OIDC framework for ASP.NET Core (free for dev/OSS)
+* [Microsoft.Identity.Web](https://github.com/AzureAD/microsoft-identity-web) - Microsoft Identity integration for ASP.NET Core
+
+### PHP
+* [league/oauth2-server](https://github.com/thephpleague/oauth2-server) - Standards-compliant OAuth 2.0 authorization server
+* [league/oauth2-client](https://github.com/thephpleague/oauth2-client) - OAuth 2.0 client library
+
+### Ruby
+* [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) - OAuth 2.0 provider for Ruby on Rails
+* [OmniAuth](https://github.com/omniauth/omniauth) - Multi-provider authentication framework
+
 ## Playground
 * [OAUTH.TOOLS](https://oauth.tools/)
 * [Google OAuth 2.0 Playground](https://developers.google.com/oauthplayground/)
