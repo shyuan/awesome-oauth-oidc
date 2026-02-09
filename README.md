@@ -48,12 +48,17 @@
 * [OAuth 2.0 Token Exchange (RFC 8693)](https://datatracker.ietf.org/doc/html/rfc8693)
 * [OAuth 2.0 Mutual TLS Client Authentication and Certificate-Bound Access Tokens (RFC 8705)](https://datatracker.ietf.org/doc/html/rfc8705)
 * [JSON Web Token Best Current Practices (RFC 8725)](https://datatracker.ietf.org/doc/html/rfc8725)
+* [JSON Web Token (JWT) Profile for OAuth 2.0 Access Tokens (RFC 9068)](https://datatracker.ietf.org/doc/html/rfc9068)
 * [The OAuth 2.0 Authorization Framework: JWT-Secured Authorization Request (JAR) (RFC 9101)](https://datatracker.ietf.org/doc/html/rfc9101)
 * [OAuth 2.0 Pushed Authorization Requests (RFC 9126)](https://datatracker.ietf.org/doc/html/rfc9126)
 * [OAuth 2.0 Authorization Server Issuer Identification (RFC 9207)](https://datatracker.ietf.org/doc/html/rfc9207)
+* [JWK Thumbprint URI (RFC 9278)](https://datatracker.ietf.org/doc/html/rfc9278)
 * [OAuth 2.0 Rich Authorization Requests (RFC 9396)](https://datatracker.ietf.org/doc/html/rfc9396)
+* [Client-Cert HTTP Header Field (RFC 9440)](https://datatracker.ietf.org/doc/html/rfc9440)
 * [OAuth 2.0 Demonstrating Proof of Possession (DPoP) (RFC 9449)](https://datatracker.ietf.org/doc/html/rfc9449)
+* [OAuth 2.0 Step Up Authentication Challenge Protocol (RFC 9470)](https://datatracker.ietf.org/doc/html/rfc9470)
 * [OAuth 2.0 Security Best Current Practice (RFC 9700)](https://datatracker.ietf.org/doc/html/rfc9700)
+* [Selective Disclosure for JSON Web Tokens (SD-JWT) (RFC 9901)](https://datatracker.ietf.org/doc/html/rfc9901)
 
 ### Draft
 #### Active
