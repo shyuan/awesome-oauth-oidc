@@ -146,6 +146,7 @@
 * [Getting Started with OAuth 2.0 - Programming Clients for Secure Web API Authorization and Authentication](https://www.oreilly.com/library/view/~/9781449317843/)
 * [Identity and Data Security for Web Development - Best Practices](https://www.oreilly.com/library/view/~/9781491937006/)
 * [OAuth 2.0 – Getting Started in Web-API Security](https://api-university.com/books/oauth-2-0-book/)
+* [OpenID Connect入門 ―アプリケーション開発者のための実践技術解説](https://gihyo.jp/book/2026/978-4-297-15456-1)
 
 ## Server Implementation
 * [Keycloak](https://www.keycloak.org/) - Open-source IAM by Red Hat, supports OAuth 2.0, OIDC, and SAML 2.0 (Java)
