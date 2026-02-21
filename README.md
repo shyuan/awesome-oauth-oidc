@@ -215,6 +215,7 @@
 * [OIDC Playground](https://oidc-playground.compile7.org/)
 * [OIDC Debugger](https://oidcdebugger.com/) - Web-based tool for testing OIDC authorization requests
 * [OpenID Connect Conformance Suite](https://openid.net/certification/testing/) - Official OIDC provider conformance test suite
+* [IAMDevBox PKCE Generator](https://www.iamdevbox.com/tools/pkce-generator/) - Online PKCE code_verifier and code_challenge generator with S256/plain support
 
 ### JWT
 * [jwt.io](https://jwt.io/) - JWT debugger and library directory by Auth0
@@ -222,6 +223,7 @@
 * [token.dev](https://token.dev/) - Modern JWT debugger with a clean interface
 * [mkjwk.org](https://mkjwk.org/) - JSON Web Key (JWK) generator
 * [jwt-cli](https://github.com/mike-engel/jwt-cli) - Command-line JWT decoder/encoder (Rust)
+* [IAMDevBox JWT Decoder](https://www.iamdevbox.com/tools/jwt-decode/) - Browser-based JWT decoder with header/payload/signature analysis
 
 ### CLI
 * [oauth2c](https://github.com/cloudentity/oauth2c) - Command-line OAuth 2.0 client supporting all grant types, PKCE, DPoP, mTLS
