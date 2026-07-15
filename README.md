@@ -140,6 +140,8 @@
 * [What's OAuth2 Anyway? by Roman Glushko](https://www.romaglushko.com/blog/whats-aouth2/)
 * [How OpenID Connect Works by OpenID Foundation](https://openid.net/developers/how-connect-works/)
 * [OpenID Connect (OAuth.com) by Aaron Parecki](https://www.oauth.com/oauth2-servers/openid-connect/)
+* [GitHub Actions OIDC – Non-Human Identities and Secretless Authentication](https://eparon.me/posts/2026-02-28-oidc-gh-actions-p1/)
+* [Secret-less authentication towards APIs with GitHub Actions OIDC and Envoy Proxy](https://eparon.me/posts/2026-03-24-oidc-gh-actions-p2/)
 
 ## Book
 * [OAuth 2 in Action](https://www.manning.com/books/oauth-2-in-action)
