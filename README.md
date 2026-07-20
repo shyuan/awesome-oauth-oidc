@@ -163,6 +163,7 @@
 * [Logto](https://logto.io/) - Developer-friendly, open-source Auth0 alternative with OIDC support (TypeScript)
 * [Casdoor](https://casdoor.org/) - UI-first IAM platform supporting OAuth 2.0, OIDC, SAML, CAS, and more (Go)
 * [Authagonal](https://github.com/authagonal/authagonal) - Self-hosted OAuth 2.0, OIDC, and SAML 2.0 authentication server, deployable as a Docker image or embedded as an ASP.NET Core library (.NET)
+* [Abblix OIDC Server](https://github.com/Abblix/Oidc.Server) - OpenID Certified OAuth 2.0 and OpenID Connect server library for ASP.NET Core (.NET)
 
 ## Client Library
 
