@@ -220,6 +220,7 @@
 * [OIDC Debugger](https://oidcdebugger.com/) - Web-based tool for testing OIDC authorization requests
 * [OpenID Connect Conformance Suite](https://openid.net/certification/testing/) - Official OIDC provider conformance test suite
 * [IAMDevBox PKCE Generator](https://www.iamdevbox.com/tools/pkce-generator/) - Online PKCE code_verifier and code_challenge generator with S256/plain support
+* [Google OAuth Redirect URI Doctor](https://arling.sk/google-oauth-redirect-doctor/) - Free, client-side tool that diagnoses "Error 400: redirect_uri_mismatch" by comparing what Google's OAuth server received against your registered URIs, across 12 auth stacks (NextAuth, Supabase, Firebase, and others)
 
 ### JWT
 * [jwt.io](https://jwt.io/) - JWT debugger and library directory by Auth0
