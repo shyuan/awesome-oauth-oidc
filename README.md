@@ -182,6 +182,7 @@
 * [OAuthLib](https://github.com/oauthlib/oauthlib) - Generic, spec-compliant OAuth request-signing logic
 * [requests-oauthlib](https://github.com/requests/requests-oauthlib) - OAuth support for Python `requests`, built on OAuthLib
 * [PyJWT](https://github.com/jpadilla/pyjwt) - JSON Web Token encoding and decoding
+* [polaris-oid4vp](https://github.com/EgorKhaklin/polaris-id/tree/main/packages/polaris-oid4vp) - OpenID4VP 1.0 + HAIP 1.0 verifier for SD-JWT VC over `direct_post.jwt`; version 1.0.0rc7 is OpenID Certified (Verifier)
 
 ### Java
 * [Nimbus JOSE + JWT](https://connect2id.com/products/nimbus-jose-jwt) - Popular Java library for JOSE and JWT
