@@ -158,6 +158,7 @@
 * [Authelia](https://www.authelia.com/) - Authentication and SSO server with OIDC Identity Provider support (Go)
 * [node-oidc-provider](https://github.com/panva/node-oidc-provider) - Certified OpenID Connect provider for Node.js (JavaScript)
 * [Spring Authorization Server](https://spring.io/projects/spring-authorization-server) - Official Spring project for OAuth 2.0 and OIDC Authorization Servers (Java)
+* [AAAX](https://github.com/yky32/aaax) - Self-host OpenID Connect authorization server as one Spring Boot jar — PKCE, hosted login, Java 21. Not Keycloak. (Java)
 * [OpenIddict](https://github.com/openiddict/openiddict-core) - Flexible open-source OIDC server for ASP.NET Core (.NET)
 * [ZITADEL](https://zitadel.com/) - Cloud-native identity management with OAuth 2.0 and OIDC (Go)
 * [Logto](https://logto.io/) - Developer-friendly, open-source Auth0 alternative with OIDC support (TypeScript)
