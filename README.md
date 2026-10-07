@@ -21,8 +21,6 @@
 * [OAuth on Wikipedia](https://en.wikipedia.org/wiki/OAuth)
 * [OAuth.net by Okta](https://oauth.net/)
 * [OAuth.com by Okta](https://www.oauth.com/)
-* [OAuth Articles and Posts by Alex Bilbie](https://alexbilbie.com/tag/oauth/)
-* [OpenID Connect](https://openid.net/connect/)
 * [OpenID Connect Explained by Connect2id](https://connect2id.com/learn/openid-connect)
 * [Connect2id Learn Portal](https://connect2id.com/learn)
 * [OpenID Certification](https://openid.net/certification/)
@@ -72,16 +70,16 @@
 * [Subject Identifiers for Security Event Tokens (RFC 9493)](https://datatracker.ietf.org/doc/html/rfc9493)
 * [OAuth 2.0 Security Best Current Practice (RFC 9700)](https://datatracker.ietf.org/doc/html/rfc9700)
 * [Selective Disclosure for JSON Web Tokens (SD-JWT) (RFC 9901)](https://datatracker.ietf.org/doc/html/rfc9901)
+* [OAuth 2.0 for Browser-Based Applications (RFC 10017)](https://datatracker.ietf.org/doc/html/rfc10017)
+* [Best Current Practice for Security of Cross-Device Flows (RFC 10027)](https://datatracker.ietf.org/doc/html/rfc10027)
 
 ### IETF Draft
 #### Active
-* [OAuth 2.0 for Browser-Based Apps (draft-ietf-oauth-browser-based-apps-26)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-browser-based-apps-26)
-* [The OAuth 2.1 Authorization Framework (draft-ietf-oauth-v2-1-14)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1-14)
-* [Cross-Device Flows: Security Best Current Practice (draft-ietf-oauth-cross-device-security-15)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-cross-device-security-15)
-* [OAuth Identity and Authorization Chaining Across Domains (draft-ietf-oauth-identity-chaining-07)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-identity-chaining-07)
-* [SD-JWT-based Verifiable Digital Credentials (draft-ietf-oauth-sd-jwt-vc-14)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-sd-jwt-vc-14)
-* [Token Status List (draft-ietf-oauth-status-list-17)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-status-list-17)
-* [Transaction Tokens (draft-ietf-oauth-transaction-tokens-07)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-transaction-tokens-07)
+* [The OAuth 2.1 Authorization Framework (draft-ietf-oauth-v2-1-16)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1-16)
+* [OAuth Identity and Authorization Chaining Across Domains (draft-ietf-oauth-identity-chaining-17)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-identity-chaining-17)
+* [SD-JWT-based Verifiable Digital Credentials (draft-ietf-oauth-sd-jwt-vc-19)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-sd-jwt-vc-19)
+* [Token Status List (draft-ietf-oauth-status-list-21)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-status-list-21)
+* [Transaction Tokens (draft-ietf-oauth-transaction-tokens-11)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-transaction-tokens-11)
 
 #### Expired & archived
 * [Reciprocal OAuth (draft-ietf-oauth-reciprocal-04)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-reciprocal-04)
@@ -157,13 +155,15 @@
 * [Authentik](https://goauthentik.io/) - Self-hosted identity provider supporting OAuth 2.0, OIDC, SAML, SCIM, and LDAP (Python/Go)
 * [Authelia](https://www.authelia.com/) - Authentication and SSO server with OIDC Identity Provider support (Go)
 * [node-oidc-provider](https://github.com/panva/node-oidc-provider) - Certified OpenID Connect provider for Node.js (JavaScript)
-* [Spring Authorization Server](https://spring.io/projects/spring-authorization-server) - Official Spring project for OAuth 2.0 and OIDC Authorization Servers (Java)
+* [Spring Security Authorization Server](https://docs.spring.io/spring-security/reference/servlet/oauth2/authorization-server/index.html) - OAuth 2.0 and OIDC Authorization Server support, merged into Spring Security 7.0 from the former [Spring Authorization Server](https://spring.io/blog/2025/09/11/spring-authorization-server-moving-to-spring-security-7-0) project (Java)
 * [OpenIddict](https://github.com/openiddict/openiddict-core) - Flexible open-source OIDC server for ASP.NET Core (.NET)
 * [ZITADEL](https://zitadel.com/) - Cloud-native identity management with OAuth 2.0 and OIDC (Go)
 * [Logto](https://logto.io/) - Developer-friendly, open-source Auth0 alternative with OIDC support (TypeScript)
-* [Casdoor](https://casdoor.org/) - UI-first IAM platform supporting OAuth 2.0, OIDC, SAML, CAS, and more (Go)
+* [Casdoor](https://casdoor.ai/) - UI-first IAM platform supporting OAuth 2.0, OIDC, SAML, CAS, and more (Go)
 * [Authagonal](https://github.com/authagonal/authagonal) - Self-hosted OAuth 2.0, OIDC, and SAML 2.0 authentication server, deployable as a Docker image or embedded as an ASP.NET Core library (.NET)
 * [Abblix OIDC Server](https://github.com/Abblix/Oidc.Server) - OpenID Certified OAuth 2.0 and OpenID Connect server library for ASP.NET Core (.NET)
+* [Pocket ID](https://github.com/pocket-id/pocket-id) - Simple, passkey-only OpenID Connect provider, OpenID Certified (Go)
+* [OpenAuth](https://github.com/anomalyco/openauth) - Universal, standards-based OAuth 2.0 auth provider by the OpenCode (SST) team, deployable standalone or embedded on Node.js, Bun, AWS Lambda, or Cloudflare Workers; in beta (TypeScript)
 
 ## Client Library
 
@@ -178,7 +178,7 @@
 * [arctic](https://github.com/pilcrowonpaper/arctic) - OAuth 2.0 provider helpers for 50+ providers with minimal abstraction
 
 ### Python
-* [Authlib](https://github.com/lepture/authlib) - OAuth and OIDC client/server library for Flask, Django, FastAPI, and more
+* [Authlib](https://github.com/authlib/authlib) - OAuth and OIDC client/server library for Flask, Django, FastAPI, and more
 * [OAuthLib](https://github.com/oauthlib/oauthlib) - Generic, spec-compliant OAuth request-signing logic
 * [requests-oauthlib](https://github.com/requests/requests-oauthlib) - OAuth support for Python `requests`, built on OAuthLib
 * [PyJWT](https://github.com/jpadilla/pyjwt) - JSON Web Token encoding and decoding
@@ -194,7 +194,7 @@
 * [openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) - OpenID Connect library built on oauth2-rs
 
 ### .NET
-* [Duende IdentityServer](https://github.com/DuendeSoftware/IdentityServer) - OAuth 2.0 and OIDC framework for ASP.NET Core (free for dev/OSS)
+* [Duende IdentityServer](https://github.com/DuendeSoftware/products) - OAuth 2.0 and OIDC framework for ASP.NET Core (free for dev/OSS)
 * [Microsoft.Identity.Web](https://github.com/AzureAD/microsoft-identity-web) - Microsoft Identity integration for ASP.NET Core
 
 ### PHP
@@ -219,7 +219,7 @@
 * [Google OAuth 2.0 Playground](https://developers.google.com/oauthplayground/)
 * [OIDC Playground](https://oidc-playground.compile7.org/)
 * [OIDC Debugger](https://oidcdebugger.com/) - Web-based tool for testing OIDC authorization requests
-* [OpenID Connect Conformance Suite](https://openid.net/certification/testing/) - Official OIDC provider conformance test suite
+* [OpenID Connect Conformance Suite](https://openid.net/certification/about-conformance-suite/) - Official OIDC provider conformance test suite
 * [IAMDevBox PKCE Generator](https://www.iamdevbox.com/tools/pkce-generator/) - Online PKCE code_verifier and code_challenge generator with S256/plain support
 
 ### JWT
@@ -231,7 +231,7 @@
 * [IAMDevBox JWT Decoder](https://www.iamdevbox.com/tools/jwt-decode/) - Browser-based JWT decoder with header/payload/signature analysis
 
 ### CLI
-* [oauth2c](https://github.com/cloudentity/oauth2c) - Command-line OAuth 2.0 client supporting all grant types, PKCE, DPoP, mTLS
+* [oauth2c](https://github.com/SecureAuthCorp/oauth2c) - Command-line OAuth 2.0 client supporting all grant types, PKCE, DPoP, mTLS
 * [step-cli](https://github.com/smallstep/cli) - CLI for certificates, tokens, and OIDC flows
 
 ## Video
