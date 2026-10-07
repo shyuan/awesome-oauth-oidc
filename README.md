@@ -176,6 +176,8 @@
 * [jose](https://github.com/panva/jose) - Universal JavaScript module for JWS, JWE, JWT, JWK, and JWKS
 * [passport](https://github.com/jaredhanson/passport) - Authentication middleware for Node.js with OAuth 2.0 / OIDC strategies
 * [arctic](https://github.com/pilcrowonpaper/arctic) - OAuth 2.0 provider helpers for 50+ providers with minimal abstraction
+* [Better Auth](https://github.com/better-auth/better-auth) - Framework-agnostic authentication framework with social OAuth sign-in and an OAuth 2.1 provider plugin
+* [Auth.js (NextAuth.js)](https://github.com/nextauthjs/next-auth) - Authentication library for Next.js and other frameworks with built-in OAuth / OIDC providers, now part of [Better Auth](https://better-auth.com/blog/authjs-joins-better-auth)
 
 ### Python
 * [Authlib](https://github.com/authlib/authlib) - OAuth and OIDC client/server library for Flask, Django, FastAPI, and more
