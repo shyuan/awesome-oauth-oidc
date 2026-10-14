@@ -234,6 +234,7 @@
 * [mkjwk.org](https://mkjwk.org/) - JSON Web Key (JWK) generator
 * [jwt-cli](https://github.com/mike-engel/jwt-cli) - Command-line JWT decoder/encoder (Rust)
 * [IAMDevBox JWT Decoder](https://www.iamdevbox.com/tools/jwt-decode/) - Browser-based JWT decoder with header/payload/signature analysis
+* [whosent](https://github.com/kanywst/whosent) - Terminal UI that verifies RFC 8693 token exchange delegation chains (`act`, ID-JAG, Txn-Tokens, actor proofs) hop by hop and shows where trust breaks
 
 ### CLI
 * [oauth2c](https://github.com/SecureAuthCorp/oauth2c) - Command-line OAuth 2.0 client supporting all grant types, PKCE, DPoP, mTLS
