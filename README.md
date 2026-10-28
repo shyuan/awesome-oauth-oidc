@@ -167,6 +167,7 @@
 * [Abblix OIDC Server](https://github.com/Abblix/Oidc.Server) - OpenID Certified OAuth 2.0 and OpenID Connect server library for ASP.NET Core (.NET)
 * [Pocket ID](https://github.com/pocket-id/pocket-id) - Simple, passkey-only OpenID Connect provider, OpenID Certified (Go)
 * [OpenAuth](https://github.com/anomalyco/openauth) - Universal, standards-based OAuth 2.0 auth provider by the OpenCode (SST) team, deployable standalone or embedded on Node.js, Bun, AWS Lambda, or Cloudflare Workers; in beta (TypeScript)
+* [Scalekit](https://scalekit.com/) - Managed OAuth 2.0 and OIDC authorization server for SaaS apps, AI agents, and MCP servers (OAuth 2.1, protected-resource metadata), with per-user delegated OAuth to third-party APIs
 
 ## Client Library
 
