@@ -234,6 +234,7 @@
 * [mkjwk.org](https://mkjwk.org/) - JSON Web Key (JWK) generator
 * [jwt-cli](https://github.com/mike-engel/jwt-cli) - Command-line JWT decoder/encoder (Rust)
 * [IAMDevBox JWT Decoder](https://www.iamdevbox.com/tools/jwt-decode/) - Browser-based JWT decoder with header/payload/signature analysis
+* [Stackiox JWKS Decoder](https://stackiox.com/jwks-decoder/) - Browser-based JWK/JWKS inspector showing kid, alg, curve, RSA key size and RFC 7638 thumbprint, with public key to PEM conversion
 
 ### CLI
 * [oauth2c](https://github.com/SecureAuthCorp/oauth2c) - Command-line OAuth 2.0 client supporting all grant types, PKCE, DPoP, mTLS
